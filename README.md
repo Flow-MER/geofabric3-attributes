@@ -5,6 +5,6 @@ River scientists and water industry practitioners in Australia have realised gre
 
 The National Geofabric v3 has now been released with higher resolution mapping and new river network and catchment identifiers.  There is now a gap where the v2 Environmental Stream Attributes have not been generated for Geofabric v3 and to our knowledge no upgrade is planned.
 
-Join us to help scope and generate a new set of catchment and river attributes linked to the Geofabric v3.  We will use water management in the Murray-Darling Basin as an initial focus with a view to using the Geofabric v3 environmental attributes to help inform interpretation and scaling up of monitoring and evaluation outcomes recorded by [the Flow-MER program](https://flow-mer.org.au/).  The use of national data sets and generic code linked to the Geofabric v3 identifiers will provide the groundwork for generating a new National Environmental Stream Attributes data set for Geofabric v3.
+[Join us in the repo discussion forum](https://github.com/Flow-MER/geofabric3-attributes/discussions/1) to help scope and generate a new set of catchment and river attributes linked to the Geofabric v3.  We will use water management in the Murray-Darling Basin as an initial focus with a view to using the Geofabric v3 environmental attributes to help inform interpretation and scaling up of monitoring and evaluation outcomes recorded by [the Flow-MER program](https://flow-mer.org.au/).  The use of national data sets and generic code linked to the Geofabric v3 identifiers will provide the groundwork for generating a new National Environmental Stream Attributes data set for Geofabric v3.
 
-
+This is a pet project with no resourcing so its going to be very organic and we'll blunder along slowly.  
